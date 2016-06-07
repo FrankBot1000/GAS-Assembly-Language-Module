@@ -14,7 +14,10 @@ For TextWrangler, copy the GAS Assembly.plist file to:
 Restart BBEdit or TextWrangler.
 
 
+
+
 Additional Notes:
+
 For the GAS Assembly.plist file:
 assembly directive syntax coloring is based on the BBLMPredefinedNameList.
 assembly instruction syntax coloring is based on the BBLMKeywordList.
