@@ -23,6 +23,7 @@ In the GAS Assembly.plist file:
 
 Assembly directive syntax coloring is based on the BBLMPredefinedNameList.
 Assembly instruction syntax coloring is based on the BBLMKeywordList.
-Single line coloring of comments. Block commenting sometimes omits the first "/*" unless you scroll back over it.
+Single line coloring of comments (Using # character at beginning of line).
+Block commenting with /* and */ not always working.
 Number values are colored, but registers and function names remain uncolored.
 
