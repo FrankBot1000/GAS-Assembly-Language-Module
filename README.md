@@ -3,7 +3,9 @@ A Barebones BBEdit/TextWrangler Codeless Language Module for reading GAS/AT&amp;
 
 For both 32- and 64-bit code. Feel free to suggest changes.
 
-Installation:
+
+
+INSTALLATION:
 
 For BBEdit, copy the GAS Assembly.plist file to:
 ~/Library/Application Support/BBEdit/Language Modules/
@@ -16,7 +18,7 @@ Restart BBEdit or TextWrangler.
 
 
 
-Additional Notes:
+ADDITONAL NOTES:
 
 For the GAS Assembly.plist file:
 assembly directive syntax coloring is based on the BBLMPredefinedNameList.
