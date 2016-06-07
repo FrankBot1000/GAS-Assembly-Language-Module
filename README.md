@@ -5,7 +5,7 @@ For both 32- and 64-bit code. Feel free to suggest changes.
 
 
 
-
+--------------
 Installation:
 
 For BBEdit, copy the GAS Assembly.plist file to:
@@ -16,15 +16,13 @@ For TextWrangler, copy the GAS Assembly.plist file to:
 
 Restart BBEdit or TextWrangler.
 
-
-
-
-
+---------------
 Additonal Notes:
 
-For the GAS Assembly.plist file:
-assembly directive syntax coloring is based on the BBLMPredefinedNameList.
-assembly instruction syntax coloring is based on the BBLMKeywordList.
+In the GAS Assembly.plist file:
+
+Assembly directive syntax coloring is based on the BBLMPredefinedNameList.
+Assembly instruction syntax coloring is based on the BBLMKeywordList.
 Single line coloring of comments. Block commenting sometimes omits the first "/*" unless you scroll back over it.
 Number values are colored, but registers and function names remain uncolored.
 
