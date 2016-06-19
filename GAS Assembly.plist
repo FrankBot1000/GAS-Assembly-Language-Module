@@ -22,6 +22,7 @@
 		<string>.ascii</string>
 		<string>.asciz</string>
 		<string>.balign</string>
+		<string>.bss</string>
 		<string>.bundle</string>
 		<string>.byte</string>
 		<string>.cfi</string>
