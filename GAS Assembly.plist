@@ -27,6 +27,7 @@
 		<string>.byte</string>
 		<string>.cfi</string>
 		<string>.comm</string>
+		<string>.cstring</string>
 		<string>.data</string>
 		<string>.def</string>
 		<string>.desc</string>
