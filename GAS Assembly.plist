@@ -432,6 +432,10 @@
 			<key>BBLMLanguageSuffix</key>
 			<string>.s</string>
 		</dict>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.asm</string>
+		</dict>
 	</array>
 	<key>Language Features</key>
 	<dict>
