@@ -290,6 +290,7 @@
 		<string>jz</string>
 		<string>lea</string>
 		<string>leab</string>
+		<string>leave</string>
 		<string>leawl</string>
 		<string>leaq</string>
 		<string>leal</string>
